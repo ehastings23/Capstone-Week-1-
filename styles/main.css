@@ -1,0 +1,28 @@
+.card{
+    display: inline-block;
+}
+body{
+   background-image: url("../images/background\ wallpaper.jpg");
+    padding: 1rem;
+}
+table{
+    background-color: rgba(187, 155, 62, 0.686); width: 12;
+}
+.card-body{
+    background-color: rgb(194, 154, 81);
+    color: rgb(1, 4, 12);
+}
+.card{
+    margin-bottom: 1rem;
+    display: inline-block;
+}
+.navbar-brand img{
+    height: 48px;
+}
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color: rgb(157, 122, 35) !important;
+  }
+  p{
+    background-color: rgba(157, 128, 40, 0.68);
+  }
