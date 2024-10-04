@@ -22,9 +22,8 @@ Take a look at some features of my website:
 - Kevin Long (Instructor): Very helpful and patient with students throughout the entire Capstone. Increased my understanding of code overall.
 - LC3 Cache Money Front End Development Class: The entirety of our class worked together and cooperated throughout this project, never leaving one of each other behind.
 
-**Project Structure**
-
 **My Point of View**
 - In the beginning of this project I had little understanding of the coding process.
 - I lacked in knowledge of specified tags and formats as well as file structure.
-- As I progressed with the capstone I got more comfortable with VSCode, implementing bootstrap, and... (text seems to cut off)
+- As I progressed with the capstone I got more comfortable with VSCode, implementing bootstrap, and learning connecting tags between HTML and CSS.
+- Overall it was a great learning experience I started off a little rocky but overtime i learned essetial skills and I look forward to learning more.
